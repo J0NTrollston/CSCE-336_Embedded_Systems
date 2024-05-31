@@ -18,14 +18,15 @@ This course will go over the basics of designing, interfacing, configuring, and 
 * [Lab 2](https://github.com/J0NTrollston/CSCE-336_Embedded_Systems/tree/main/Lab_2)
 * [Lab 3](https://github.com/J0NTrollston/CSCE-336_Embedded_Systems/tree/main/Lab_3)
 * [Lab 4](https://github.com/J0NTrollston/CSCE-336_Embedded_Systems/tree/main/Lab_4)
-* [Project 1]()
-* [Project 2]()
-
-
-## Project-wide Roadmap
-- test
-- [ ] test
-    - [X] test
-
+* [Project 1](https://github.com/J0NTrollston/CSCE-336_Embedded_Systems/tree/main/Project_1)
+* [Project 2](https://github.com/J0NTrollston/CSCE-336_Embedded_Systems/tree/main/Project_2)
 
 ## Demos
+- [Project 1: Robot Motion](https://youtube.com/shorts/VVOGjf5syVQ)
+- [Project 1: Wall Following](https://youtube.com/shorts/YcNfS1EZrpw)
+- [Project 2: IR Remote Demo](https://youtube.com/shorts/T1AFx1VHJ3Q)
+- [Project 2: Obstacle Avoidance](https://youtube.com/shorts/1jo0718ysg4)
+
+
+
+
